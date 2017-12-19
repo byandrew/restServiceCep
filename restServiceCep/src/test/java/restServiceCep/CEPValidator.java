@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 public class CEPValidator {
 	
 	String validCEP 	= "92310140";
-	String incorrectCEP = "12345678";
+	String incorrectCEP     = "12345678";
 	String invalidCEP	= "TEXT1230";
 	
 	
